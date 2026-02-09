@@ -1,0 +1,43 @@
+export const counsellors = [
+  {
+    id: 1,
+    name: "Dr. Sarah Johnson",
+    expertise: ["Technology Careers", "Career Transition", "Leadership Development"],
+    experience: 12,
+    bio: "Expert in technology career paths with over a decade of experience helping professionals navigate their careers.",
+    availability: "Mon-Fri, 9 AM - 5 PM"
+  },
+  {
+    id: 2,
+    name: "Michael Chen",
+    expertise: ["Business Strategy", "Entrepreneurship", "Career Planning"],
+    experience: 8,
+    bio: "Specialized in business careers and entrepreneurship, helping students and professionals achieve their goals.",
+    availability: "Tue-Thu, 10 AM - 6 PM"
+  },
+  {
+    id: 3,
+    name: "Dr. Emily Rodriguez",
+    expertise: ["Healthcare Careers", "Academic Planning", "Professional Development"],
+    experience: 15,
+    bio: "Dedicated to guiding students in healthcare professions with extensive knowledge of the industry.",
+    availability: "Mon-Wed-Fri, 8 AM - 4 PM"
+  },
+  {
+    id: 4,
+    name: "James Wilson",
+    expertise: ["Engineering Careers", "Technical Skills", "Career Advancement"],
+    experience: 10,
+    bio: "Engineering career specialist with focus on technical skill development and career progression.",
+    availability: "Mon-Thu, 9 AM - 5 PM"
+  },
+  {
+    id: 5,
+    name: "Dr. Lisa Anderson",
+    expertise: ["Creative Careers", "Portfolio Development", "Freelancing"],
+    experience: 7,
+    bio: "Expert in creative industries, helping designers and artists build successful careers.",
+    availability: "Wed-Fri, 11 AM - 7 PM"
+  }
+];
+
