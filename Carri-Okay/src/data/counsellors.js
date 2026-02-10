@@ -1,7 +1,7 @@
 export const counsellors = [
   {
     id: 1,
-    name: "Dr. Sarah Johnson",
+    name: "Dr. Jhanvi Sundi",
     expertise: ["Technology Careers", "Career Transition", "Leadership Development"],
     experience: 12,
     bio: "Expert in technology career paths with over a decade of experience helping professionals navigate their careers.",
@@ -9,7 +9,7 @@ export const counsellors = [
   },
   {
     id: 2,
-    name: "Michael Chen",
+    name: "Vishal Dadlani",
     expertise: ["Business Strategy", "Entrepreneurship", "Career Planning"],
     experience: 8,
     bio: "Specialized in business careers and entrepreneurship, helping students and professionals achieve their goals.",
@@ -17,7 +17,7 @@ export const counsellors = [
   },
   {
     id: 3,
-    name: "Dr. Emily Rodriguez",
+    name: "Dr. Ajay Kumar",
     expertise: ["Healthcare Careers", "Academic Planning", "Professional Development"],
     experience: 15,
     bio: "Dedicated to guiding students in healthcare professions with extensive knowledge of the industry.",
@@ -25,7 +25,7 @@ export const counsellors = [
   },
   {
     id: 4,
-    name: "James Wilson",
+    name: "Bear Grylls",
     expertise: ["Engineering Careers", "Technical Skills", "Career Advancement"],
     experience: 10,
     bio: "Engineering career specialist with focus on technical skill development and career progression.",
@@ -33,7 +33,7 @@ export const counsellors = [
   },
   {
     id: 5,
-    name: "Dr. Lisa Anderson",
+    name: "Dr. Vivek  Chopra",
     expertise: ["Creative Careers", "Portfolio Development", "Freelancing"],
     experience: 7,
     bio: "Expert in creative industries, helping designers and artists build successful careers.",

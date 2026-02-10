@@ -19,14 +19,14 @@ export const userDashboardData = {
   upcomingSessions: [
     {
       id: 1,
-      counsellorName: "Dr. Sarah Johnson",
+      counsellorName: "Anjali Sharma",
       date: "2024-02-15",
       time: "10:00 AM",
       topic: "Career Transition Discussion"
     },
     {
       id: 2,
-      counsellorName: "Michael Chen",
+      counsellorName: "Kunal Mehta",
       date: "2024-02-20",
       time: "2:00 PM",
       topic: "Business Strategy Planning"
