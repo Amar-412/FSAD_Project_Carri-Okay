@@ -8,8 +8,11 @@ import CareerPaths from './pages/CareerPaths';
 import Counseling from './pages/Counseling';
 import AdminDashboard from './pages/AdminDashboard';
 import VideoBackground from './components/VideoBackground';
+import Login from './pages/login';
+import Register from './pages/Register';
 import './App.css';
 import './styles/global.css';
+
 
 function AppShell() {
   const location = useLocation();
@@ -21,6 +24,8 @@ function AppShell() {
       <Navbar />
       <main className="main-content">
         <Routes>
+          <Route path="/login" element={<Login />} />
+          <Route path="/register" element={<Register />} />
           <Route path="/" element={<LandingPage />} />
           <Route path="/dashboard" element={<UserDashboard />} />
           <Route path="/career-paths" element={<CareerPaths />} />

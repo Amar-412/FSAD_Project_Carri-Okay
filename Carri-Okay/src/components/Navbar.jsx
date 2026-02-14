@@ -15,8 +15,9 @@ function Navbar() {
           <li><Link to="/" className="navbar-link">Home</Link></li>
           <li><Link to="/career-paths" className="navbar-link">Career Paths</Link></li>
           <li><Link to="/counseling" className="navbar-link">Counseling</Link></li>
-          <li><Link to="/dashboard" className="navbar-link">Dashboard</Link></li>
-          <li><Link to="/admin" className="navbar-link">Admin</Link></li>
+          <li><Link to="/login" className="navbar-link">Login</Link></li>
+          <li><Link to="/register" className="navbar-link">Register</Link></li>
+
           <li>
             <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
               {theme === 'light' ? '🌙' : '☀️'}
